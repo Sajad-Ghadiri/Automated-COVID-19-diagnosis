@@ -3,6 +3,14 @@ EMCNet: Automated COVID-19 diagnosis from X-ray images using convolutional neura
 
 ---
 
+## Paper CNN Implementation
+---
+
+- Simulating Paper's architecture. Using all public available data for training CNN model.
+<p align="center">
+  <img src="./Results/CNN_output.png" /> 
+</p>
+
 - Result Table
 <p align="center">
 <!--   <img src="./Pictures/ResultTable.png" />  -->
