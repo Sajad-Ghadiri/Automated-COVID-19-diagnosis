@@ -52,7 +52,9 @@ GUI designed for users to make their experience more comfortable
 - <p align="center">
   <img src="./Results/GUI2.png" /> 
 </p>
+
 ---
+
 ## Contributers
 <table>
   <tr>
