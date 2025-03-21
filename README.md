@@ -1,22 +1,45 @@
 # Automated-COVID-19-diagnosis
-EMCNet: Automated COVID-19 diagnosis from X-ray images using convolutional neural network and ensemble of machine learning classifiers
+- EMCNet: Automated COVID-19 diagnosis from X-ray images using convolutional neural network and ensemble of machine learning classifiers
 
----
+
 
 ## Paper CNN Implementation
----
+
 
 - Simulating Paper's architecture. Using all public available data for training CNN model.
 <p align="center">
   <img src="./Results/CNN_output.png" /> 
 </p>
 
+- Applying Meand and Std of the data in training process with same architecture
+<p align="center">
+  <img src="./Results/output CNN.png" /> 
+</p>
+  
+---
 - Result Table
 <p align="center">
 <!--   <img src="./Pictures/ResultTable.png" />  -->
 </p>
 
+- Confusion Matrices for 4 classifiers
+<p align="center">
+  <img src="./Results/SVM.png" width="350" height="250" alt="Square 1">
+  <img src="./Results/Adaboost.png" width="350" height="250" alt="Square 2">
+  <img src="./Results/RandomForest.png" width="350" height="250" alt="Square 3">
+  <img src="./Results/DescisionTree.png" width="350" height="250" alt="Square 4">
+</p>
 
+- Confusion Matric for Ensemble classifier
+<p align="center">
+  <img src="./Results/Ensemble.png" /> 
+</p>
+
+- Receiver Operating Characteristic
+<p align="center">
+  <img src="./Results/ROC.png" /> 
+</p>
+  
 ## Contributers
 <table>
   <tr>
