@@ -39,7 +39,20 @@
 <p align="center">
   <img src="./Results/ROC.png" /> 
 </p>
-  
+
+---
+## GUI 
+GUI designed for users to make their experience more comfortable
+- Start up view of the GUI
+<p align="center">
+  <img src="./Results/GUI1.png" /> 
+</p>
+
+- An example of detection
+- <p align="center">
+  <img src="./Results/GUI2.png" /> 
+</p>
+---
 ## Contributers
 <table>
   <tr>
